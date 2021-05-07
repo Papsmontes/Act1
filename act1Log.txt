@@ -1,0 +1,80 @@
+commit 4f4c46b3dac6fe4e66df64b985fdfd099cb536fa (HEAD -> master)
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 22:30:50 2021 -0500
+
+    Modificación al README.txt para documentar lineas de edición y eliminación de lineas de prueba en el código--
+
+commit a72e19f6f4965e7ad5894d524045f55087da7d4f
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 22:02:52 2021 -0500
+
+    Modificación al README.txt para documentar lineas de edición
+
+commit 3aae8c6561bd05ecc8eef070e911bcf66595ca38 (origin/master, origin/HEAD)
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 11:55:07 2021 -0500
+
+    Agregado las funcionalidades del triangulo y el rectangulo, además del README
+
+commit 76d57fb85b994aa5a3d24dd4c0fbb58709bce30f
+Author: Papsmontes <a01424275@itesm.mx>
+Date:   Thu May 6 11:32:09 2021 -0500
+:...skipping...
+commit 4f4c46b3dac6fe4e66df64b985fdfd099cb536fa (HEAD -> master)
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 22:30:50 2021 -0500
+
+    Modificación al README.txt para documentar lineas de edición y eliminación de lineas de prueba en el código--
+
+commit a72e19f6f4965e7ad5894d524045f55087da7d4f
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 22:02:52 2021 -0500
+
+    Modificación al README.txt para documentar lineas de edición
+
+commit 3aae8c6561bd05ecc8eef070e911bcf66595ca38 (origin/master, origin/HEAD)
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 11:55:07 2021 -0500
+
+    Agregado las funcionalidades del triangulo y el rectangulo, además del README
+
+commit 76d57fb85b994aa5a3d24dd4c0fbb58709bce30f
+Author: Papsmontes <a01424275@itesm.mx>
+Date:   Thu May 6 11:32:09 2021 -0500
+
+:...skipping...
+commit 4f4c46b3dac6fe4e66df64b985fdfd099cb536fa (HEAD -> master)
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 22:30:50 2021 -0500
+
+    Modificación al README.txt para documentar lineas de edición y eliminación de lineas de prueba en el código--
+
+commit a72e19f6f4965e7ad5894d524045f55087da7d4f
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 22:02:52 2021 -0500
+
+    Modificación al README.txt para documentar lineas de edición
+
+commit 3aae8c6561bd05ecc8eef070e911bcf66595ca38 (origin/master, origin/HEAD)
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 11:55:07 2021 -0500
+
+    Agregado las funcionalidades del triangulo y el rectangulo, además del README
+
+commit 76d57fb85b994aa5a3d24dd4c0fbb58709bce30f
+Author: Papsmontes <a01424275@itesm.mx>
+Date:   Thu May 6 11:32:09 2021 -0500
+
+    agregar circulo y color
+
+commit 18aa365be3f33a98a6af3806e5e5d5756a2fb607
+Author: Papsmontes <a01424275@itesm.mx>
+Date:   Thu May 6 11:20:58 2021 -0500
+
+    Aqui se agrega color y circulo
+
+commit c49f509f0ee1357d3bc04963f1538f07fc69e0e2
+Author: KarlaTrejo <A01422942@itesm.mx>
+Date:   Thu May 6 10:10:58 2021 -0500
+
+    subida del archivo del juego paint
